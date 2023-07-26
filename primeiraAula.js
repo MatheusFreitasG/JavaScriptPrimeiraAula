@@ -31,8 +31,8 @@ console.log(16+3.5)
 
 // conta Exercicio 6
 
-dataAtual = new Date(2023)
-dataLua = new Date(1969)
+let dataAtual = new Date(2023)
+let dataLua = new Date(1969)
 console.log(dataAtual - dataLua)
 
 // Exercicio 7
